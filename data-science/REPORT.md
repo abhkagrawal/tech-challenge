@@ -62,3 +62,5 @@ A purely “instantaneous” snapshot of sensor readings often fails to capture 
 - **Feature Engineering:** We can introduce more features like Gearbox Temperature, Gearbox Vibration, Motor Power to develop a robust predictive model  
 - **Model alternatives:** We can use a sequence model (LSTM), which might capture long-range dependencies—such as gradual gearbox wear—but requires more data and careful regularization.  
 - **Business integration:** Beyond model metrics, the ultimate judgment for any predictive model is whether alerts translate into timely maintenance actions and reduced downtime.
+
+---
